@@ -1,7 +1,7 @@
 # tracegen
 
 `tracegen` is a utility that can generate a steady flow of simple traces useful for performance tuning.
-Traces are produced concurrently from one or more worker goroutines. Run with `-h` to see all cli flags.
+Traces are produced concurrently from one or more worker goroutines. Run with `-h` to see all CLI flags.
 
 The binary is available from the Releases page, as well as a Docker image:
 
